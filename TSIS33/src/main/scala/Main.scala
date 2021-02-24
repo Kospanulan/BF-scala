@@ -193,6 +193,13 @@ object Solution extends App{
 
   println(kWeakestRows(Array(Array(9,6,4,5),Array(1,5,6,8,4),Array(1, 2, 3, 4),Array(8, 6)), 4).mkString(", "))
 
+
+  println("Problem 8")
+
+
+
+
+
 }
 
 
