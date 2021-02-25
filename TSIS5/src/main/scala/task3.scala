@@ -25,7 +25,7 @@ object task3 extends App{
 
   case class Date(day: Int, month: Int, year: Int)
 
-  val d = Date(31, 8, 2019)
+  val d = Date(29, 2, 2016)
 
   print(dayOfTheWeek(d.day, d.month, d.year))
 
