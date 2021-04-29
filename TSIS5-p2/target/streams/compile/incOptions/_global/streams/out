@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Printer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brain$Calculate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Printer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator$Calculate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brain$Calculate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator$Calculate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes.bak[0m

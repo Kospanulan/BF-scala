@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/tsis5-p2_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Printer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Printer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Brain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Printer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Printer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Calculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Calculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator$Calculate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Calculator$Calculate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Calculator$Calculate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Calculator$Calculate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brain$Calculate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Brain$Calculate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Brain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brain$Calculate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /sysroot/home/user/KBTU/BF-scala/TSIS5-p2/target/scala-2.13/classes/Brain$Calculate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
