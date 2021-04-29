@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/sysroot/home/user/KBTU/BF-scala/TSIS5-part2/project/"), "tsis5-part2-build")...[0m
+[0m[[0m[33mwarn[0m] [0m[0mUnrecognized repository Scala Plugin Bundled Repository, ignoring it[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/sysroot/home/user/KBTU/BF-scala/TSIS5-part2/project/"), "tsis5-part2-build")[0m
